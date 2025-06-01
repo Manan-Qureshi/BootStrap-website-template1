@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.container .h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.container .h2{
+    font-size: 35px;
+    font-weight: 400;
+    color: rgb(132, 130, 159);
+}
+.container .h1 span{
+    color: darkblue;
+}
+.container-fluid .aerow{
+    color: darkblue;
+    font-size: 20px;
+}
+.container-fluid .h2{
+    font-family: courier-new;
+    font-size: 37px;
+}
+.container-fluid .border i{
+    font-size: 40px;
+}
+.Section_5{
+    height: 100vh;
+}
+.Footer .h3{
+    color: white;
+}
+.Footer{
+    margin:40vh 0 0 -2vw;
+    width: 100vw;
+    height: 20vh;
+    background-color: black;
+}
+.Footer #rserved{
+    margin:-11vh 5vw 10vh 65vw;
+    color: white;
+}
